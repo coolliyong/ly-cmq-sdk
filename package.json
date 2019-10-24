@@ -1,5 +1,5 @@
 {
-  "name": "cmq-sdk",
+  "name": "ly-cmq-sdk",
   "version": "1.0.0",
   "description": "Nodejs CMQ operation",
   "main": "index.js",
@@ -10,6 +10,10 @@
     "tencent",
     "sdk"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coolliyong/ly-cmq-sdk"
+  },
   "author": "yonglongli",
   "license": "ISC"
 }
