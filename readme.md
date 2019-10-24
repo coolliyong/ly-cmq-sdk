@@ -13,7 +13,7 @@ nodejs 操作 cmq
 - queueMsgRecive 从队列消费消息
 - batchQueueMsgReceive 从队列批量消费消息
 
-// 有很多没有实现的 api 接口 一定可以调用
+// 有很多没有实现的 api 接口 一样可以调用
 
 ```js
 // https://cloud.tencent.com/document/api/406/5852
