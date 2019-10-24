@@ -3,8 +3,8 @@ const CMQClient = require('../index.js')
 const cmq = new CMQClient({
   host: 'https://cmq-queue-bj.api.qcloud.com',
   Region: 'ap-beijing',
-  SecretId: 'AKIDEJG5jCgaUEm8IGemMk089zd6OUO671FH',
-  SecretKey: '2tgItKZgbPKD0f9RYXQ9lEWdYVJ3e3LS'
+  SecretId: '',
+  SecretKey: ''
 })
 
 // 获取队列
