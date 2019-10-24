@@ -1,0 +1,15 @@
+{
+  "name": "cmq-sdk",
+  "version": "1.0.0",
+  "description": "Nodejs CMQ operation",
+  "main": "index.js",
+  "keywords": [
+    "cmq",
+    "messageQueue",
+    "nodejs",
+    "tencent",
+    "sdk"
+  ],
+  "author": "yonglongli",
+  "license": "ISC"
+}
